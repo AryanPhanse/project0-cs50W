@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(18, 16, 16);
+    color: white;
+}
+.three{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.input{
+   padding-left: 20px;
+   padding-bottom: 30px;
+}
+.advsear{
+    padding-left: 20px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+.allwords{
+    padding-bottom: 25px;
+    padding-left: 20px;
+}
+.none{
+    padding-bottom: 25px;
+    padding-left: 20px;
+}
+.exact
+{
+    padding-bottom: 25px;
+    padding-left: 20px;
+}
+.any{
+    padding-bottom: 25px;
+    padding-left: 20px;
+}
+input{
+    padding-left: 20px;
+}
+.submit{
+    padding-left: 100px;
+    
+}
